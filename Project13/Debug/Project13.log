@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\zakaa\source\repos\project13\project13\source.cpp(186): warning C4101: 'q': unreferenced local variable
+c:\users\zakaa\source\repos\project13\project13\source.cpp(360): warning C4101: 'q': unreferenced local variable
+c:\users\zakaa\source\repos\project13\project13\source.cpp(534): warning C4101: 'q': unreferenced local variable
+c:\users\zakaa\source\repos\project13\project13\source.cpp(716): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\zakaa\source\repos\project13\project13\source.cpp(729): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Project13.vcxproj -> c:\users\zakaa\source\repos\Project13\Debug\Project13.exe
